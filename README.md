@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=230&section=header&text=Hardik%20Gupta%20⚡&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20%26%20Data%20Science%20%7C%20System%20Design&descAlignY=62&descSize=18&descColor=00f2fe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=230&section=header&text=Hardik%20Gupta%20⚡&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Systems%20Builder&descAlignY=62&descSize=18&descColor=00f2fe" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&height=50&lines=%E2%9A%A1+Full-Stack+Architect+%26+Systems+Builder;%F0%9F%99%8C+Student+%40+KL+Education+Foundation;(React+%7C+Node.js+%7C+PostgreSQL+%7C+Python);%F0%9F%9A%80+Creator+of+CollabSphere+%26+AlgoTrade" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&height=50&lines=%E2%9A%A1+AI+Engineer+%26+Full-Stack+Architect;%F0%9F%A7%A0+Building+HardikOS+%26+AI+Agent+Framework;%F0%9F%99%8C+Student+%40+KL+Education+Foundation;(React+%7C+Node.js+%7C+PostgreSQL+%7C+Python);%F0%9F%9A%80+Creator+of+CollabSphere+%26+AlgoTrade" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,18 +20,39 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+## 🖥️ System Status
+
+```text
+SYSTEM STATUS
+
+Name      : Hardik Gupta
+Location  : India
+Role      : AI Engineer
+Status    : Online
+
+Projects Running
+───────────────
+🟢 HardikOS
+🟢 AI Agent Framework
+🟡 Portfolio
+🟢 Open Source
+```
+
+---
+
 ## 🌌 About Me
 
 ```json
 {
   "developer": "Hardik Gupta",
+  "role": "AI Engineer & Full-Stack Architect",
   "status": "Building scalable full-stack products & exploring AI systems",
-  "location": "KL Education Foundation (KLEF)",
+  "location": "KL Education Foundation (KLEF), India",
   "passions": [
-    "High-Performance System Architecture",
+    "Autonomous AI Agent Frameworks & OS Kernel Architectures",
+    "High-Performance System Design & Micro-services",
     "Real-Time Collaboration Engines (WebSockets/Prisma)",
-    "Interactive UI/UX with 3D & GSAP Micro-animations",
-    "Data-Driven AI Search & Pathfinding Algorithms"
+    "Interactive UI/UX with 3D & GSAP Micro-animations"
   ]
 }
 ```
@@ -61,6 +82,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🟢 HardikOS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Agent_OS-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/Kernel-Architecture-6b11ff?style=flat-square" />
+      </p>
+      <p><b>AI Agent Kernel & Operating Environment</b> designed for intelligent autonomous task execution, memory storage, and agent runtime orchestration.</p>
+      <ul>
+        <li>Modular kernel runtime with workflow engines</li>
+        <li>Intelligent agent planning, tool validation & vector store memory</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🌐 CollabSphere</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -74,6 +108,8 @@
         <li>RBAC, security hardening & transactional emails</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📈 AlgoTrade Engine</h3>
       <p align="center">
@@ -87,8 +123,6 @@
         <li>Custom DSA order execution matching algorithms</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Autonomous Robot Simulation</h3>
       <p align="center">
@@ -96,23 +130,10 @@
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-Pathfinding-00f2fe?style=flat-square" />
       </p>
-
       <p><b>AI Capstone Grid Navigation System</b> featuring interactive search algorithm visualizers on an 8×8 matrix.</p>
       <ul>
         <li>Implements BFS, DFS, UCS, and A* pathfinding</li>
         <li>Flask API with interactive JS visualizer</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 E-Commerce Analytics</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <p><b>Data Science Analytics Engine</b> analyzing consumer e-commerce purchase patterns.</p>
-      <ul>
-        <li>Automated programmatic report generation (`python-pptx`)</li>
-        <li>Statistical trend analysis & customer segmentation</li>
       </ul>
     </td>
   </tr>
