@@ -1,46 +1,62 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:c084fc,100:f472b6&height=220&section=header&text=Hi%20there,%20I'm%20Hardik%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Product%20Builder%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18&descColor=f8fafc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=230&section=header&text=Hardik%20Gupta%20⚡&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20%26%20Data%20Science%20%7C%20System%20Design&descAlignY=62&descSize=18&descColor=00f2fe" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+(React+%7C+Node+%7C+PostgreSQL);Student+%40+KL+Education+Foundation;Building+CollabSphere+%26+AlgoTrade;Passionate+about+System+Design+%26+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&height=50&lines=%E2%9A%A1+Full-Stack+Architect+%26+Systems+Builder;%F0%9F%99%8C+Student+%40+KL+Education+Foundation;(React+%7C+Node.js+%7C+PostgreSQL+%7C+Python);%F0%9F%9A%80+Creator+of+CollabSphere+%26+AlgoTrade" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hardiik12"><img src="https://img.shields.io/github/followers/Hardiik12?style=for-the-badge&logo=github&color=38bdf8&labelColor=0f172a" /></a>
+  <a href="https://github.com/Hardiik12"><img src="https://img.shields.io/github/followers/Hardiik12?style=for-the-badge&logo=github&color=00f2fe&labelColor=090d16" /></a>
   <a href="https://www.linkedin.com/in/hardik-gupta1222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tech.hardik12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
 
-## 💫 About Me
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-```yaml
-identity:
-  name: Hardik
-  role: Software Engineer & Product Builder
-  education: Computer Science @ KL Education Foundation (KLEF)
-  focus: Full-Stack Web Development, System Design, AI & Data Science
-interests:
-  - 🚀 Architecting real-time, scalable applications
-  - 🎨 Crafting fluid visual interfaces & design systems (GSAP / Framer Motion)
-  - 🧠 Exploring Pathfinding Algorithms & Stock Trading Engines
+## 🌌 About Me
+
+```json
+{
+  "developer": "Hardik Gupta",
+  "status": "Building scalable full-stack products & exploring AI systems",
+  "location": "KL Education Foundation (KLEF)",
+  "passions": [
+    "High-Performance System Architecture",
+    "Real-Time Collaboration Engines (WebSockets/Prisma)",
+    "Interactive UI/UX with 3D & GSAP Micro-animations",
+    "Data-Driven AI Search & Pathfinding Algorithms"
+  ]
+}
 ```
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 3D Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hardiik12&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Hardik's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hardiik12&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&column=6" alt="Hardik's 3D Trophies" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ 3D Interactive Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,postgres,prisma,python,flask,java,git,github,vscode,postman&perline=8&theme=dark" alt="3D Skill Icons" />
+  </a>
+</p>
+
+---
+
+## 🛸 Featured Projects
 
 <table>
   <tr>
@@ -51,51 +67,51 @@ interests:
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <p>A college collaboration platform for skill, interest & goal-based teammate matching. Purpose-built alternative to Discord/WhatsApp for academic project teams.</p>
+      <p><b>College Teammate Matching Platform</b> built as a Discord/WhatsApp alternative for academic project teams.</p>
       <ul>
-        <li>Real-time socket communication & workspace matching</li>
-        <li>Custom <i>"Volt & Ink"</i> design identity with GSAP animations</li>
-        <li>Hardened with RBAC, rate-limiting & transactional emails</li>
+        <li>Real-time socket messaging & skill matching</li>
+        <li>Custom <i>Volt & Ink</i> design & GSAP animations</li>
+        <li>RBAC, security hardening & transactional emails</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 AlgoTrade</h3>
+      <h3 align="center">📈 AlgoTrade Engine</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/DSA-Algorithm-38BDF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/DSA-Algorithm-00f2fe?style=flat-square" />
       </p>
-      <p>Java-based educational stock trading platform spanning 27 core classes across engine, persistence, UI, and algorithm layers.</p>
+      <p><b>Educational Stock Trading Engine</b> spanning 27 core Java classes across persistence, execution, and UI layers.</p>
       <ul>
         <li>Interactive HTML class-diagram explorer</li>
-        <li>DSA algorithm showcase for order execution logic</li>
-        <li>Clean modular architecture & object-oriented design</li>
+        <li>Custom DSA order execution matching algorithms</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Cleaning Robot Simulation</h3>
+      <h3 align="center">🤖 Autonomous Robot Simulation</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-Pathfinding-c084fc?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Pathfinding-00f2fe?style=flat-square" />
       </p>
-      <p>AI capstone project simulating autonomous grid navigation with interactive search visualizers on an 8×8 grid.</p>
+
+      <p><b>AI Capstone Grid Navigation System</b> featuring interactive search algorithm visualizers on an 8×8 matrix.</p>
       <ul>
-        <li>Implements BFS, DFS, UCS, and A* search algorithms</li>
-        <li>Dynamic Web UI built with Python/Flask & JS</li>
+        <li>Implements BFS, DFS, UCS, and A* pathfinding</li>
+        <li>Flask API with interactive JS visualizer</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 E-Commerce Behavior Analysis</h3>
+      <h3 align="center">📊 E-Commerce Analytics</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=flat-square&logo=jupyter&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <p>Data science analytics project dissecting consumer e-commerce trends and purchasing behavior patterns.</p>
+      <p><b>Data Science Analytics Engine</b> analyzing consumer e-commerce purchase patterns.</p>
       <ul>
-        <li>Automated programmatic report generation using <code>python-pptx</code></li>
+        <li>Automated programmatic report generation (`python-pptx`)</li>
         <li>Statistical trend analysis & customer segmentation</li>
       </ul>
     </td>
@@ -104,74 +120,47 @@ interests:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🐍 Contribution Graph & Snake Game
 
 <p align="center">
-  <b>Frontend Engineering</b><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Backend & Databases</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Programming Languages & Tooling</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Snake" width="100%" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics & Activity
+## 📊 Deep Dark GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hardiik12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=c084fc" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardiik12&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Hardiik12&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00f2fe&icon_color=00f2fe&text_color=94a3b8&bg_color=090d16" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardiik12&layout=compact&theme=dark&hide_border=true&title_color=00f2fe&text_color=94a3b8&bg_color=090d16" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardiik12&theme=tokyonight&hide_border=true&ring=38bdf8&fire=c084fc&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardiik12&theme=dark&hide_border=true&background=090d16&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&theme=react-dark&hide_border=true&color=38bdf8&line=c084fc&point=ffffff" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&bg_color=090d16&color=00f2fe&line=00f2fe&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
-## 📬 Let's Connect!
+## 💬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hardik-gupta1222">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tech.hardik12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Hardiik12">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:c084fc,100:f472b6&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=120&section=footer" width="100%" />
 </p>
