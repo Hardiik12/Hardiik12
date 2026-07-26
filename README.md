@@ -136,10 +136,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardiik12&theme=dark&hide_border=true&background=090d16&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&bg_color=090d16&color=00f2fe&line=00f2fe&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
