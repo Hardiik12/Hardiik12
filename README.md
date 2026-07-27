@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=230&section=header&text=Hardik%20Gupta%20⚡&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Systems%20Builder&descAlignY=62&descSize=18&descColor=00f2fe" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&height=50&lines=%E2%9A%A1+AI+Engineer+%26+Full-Stack+Architect;%F0%9F%A7%A0+Building+HardikOS+%26+AI+Agent+Framework;%F0%9F%99%8C+Student+%40+KL+Education+Foundation;(React+%7C+Node.js+%7C+PostgreSQL+%7C+Python);%F0%9F%9A%80+Creator+of+CollabSphere+%26+AlgoTrade" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=250&section=header&text=Hardik%20Gupta%20⚡&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&descColor=00f2fe" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/Hardiik12"><img src="https://img.shields.io/github/followers/Hardiik12?style=for-the-badge&logo=github&color=00f2fe&labelColor=090d16" /></a>
-  <a href="https://www.linkedin.com/in/hardik-gupta1222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tech.hardik12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+AI+Engineer+%26+Full-Stack+Architect;%F0%9F%A7%A0+Building+HardikOS+%26+AI+Agent+Framework;%F0%9F%99%8C+Student+%40+KL+Education+Foundation;(React+%7C+Node.js+%7C+PostgreSQL+%7C+Python);%F0%9F%9A%80+Creator+of+CollabSphere+%26+AlgoTrade" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hardiik12&label=Profile%20Views&color=00f2fe&style=for-the-badge&labelColor=090d16" />
+<img src="https://img.shields.io/github/followers/Hardiik12?style=for-the-badge&logo=github&color=00f2fe&labelColor=090d16" />
+<a href="https://www.linkedin.com/in/hardik-gupta1222"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tech.hardik12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 <br/>
 
@@ -20,25 +21,29 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
+
 ## 🖥️ System Status
 
 ```text
-SYSTEM STATUS
+╔══════════════════════════════════════╗
+║  SYSTEM STATUS                        ║
+╠════════════════════════════════════════╣
+  Name      : Hardik Gupta
+  Location  : India
+  Role      : AI Engineer
+  Status    : ● Online
 
-Name      : Hardik Gupta
-Location  : India
-Role      : AI Engineer
-Status    : Online
-
-Projects Running
-───────────────
-🟢 HardikOS
-🟢 AI Agent Framework
-🟡 Portfolio
-🟢 Open Source
+  Projects Running
+  ───────────────
+  🟢 HardikOS
+  🟢 AI Agent Framework
+  🟡 Portfolio
+  🟢 Open Source
+╚══════════════════════════════════════╝
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
 
 ## 🌌 About Me
 
@@ -57,7 +62,7 @@ Projects Running
 }
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
 
 ## 🏆 3D Achievements & Badges
 
@@ -65,7 +70,7 @@ Projects Running
   <img src="https://github-profile-trophy.vercel.app/?username=Hardiik12&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&column=6" alt="Hardik's 3D Trophies" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
 
 ## ⚡ 3D Interactive Tech Stack
 
@@ -75,7 +80,7 @@ Projects Running
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
 
 ## 🛸 Featured Projects
 
@@ -139,7 +144,7 @@ Projects Running
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
 
 ## 🐍 Contribution Graph & Snake Game
 
@@ -147,7 +152,7 @@ Projects Running
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Snake" width="100%" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
 
 ## 📊 Deep Dark GitHub Analytics
 
@@ -157,10 +162,14 @@ Projects Running
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardiik12&theme=dark&hide_border=true&background=090d16&ring=00f2fe&fire=6b11ff&currStreakLabel=00f2fe" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&bg_color=090d16&color=00f2fe&line=00f2fe&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f2fe,100:6b11ff&height=3&section=header&width=100%" />
 
 ## 💬 Connect With Me
 
@@ -178,6 +187,4 @@ Projects Running
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=120&section=footer" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:00f2fe,70:4facfe,100:6b11ff&height=150&section=footer&width=100%" />
