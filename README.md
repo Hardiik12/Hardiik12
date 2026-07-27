@@ -124,6 +124,43 @@ Centralized portfolio hub — a curated showcase of all projects with a clean ca
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ CPU Scheduling Burst Analyzer**
+`Java` `OS Concepts` `Algorithms`
+
+OS-level CPU scheduling simulator — visualizes and compares FCFS, SJF, Round Robin, and Priority scheduling algorithms with burst time analysis and Gantt chart output.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/CPU-Scheduling-Burst-Analyzer) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=github&logoColor=black)](https://hardiik12.github.io/CPU-Scheduling-Burst-Analyzer/)
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 E-Commerce Platform**
+`HTML` `CSS` `JavaScript`
+
+Full-featured e-commerce frontend — product listings, cart management, category filtering, and a clean responsive checkout flow.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/E-commerce)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗃️ Product Catalog DBMS**
+`SQL` `DBMS` `Database Design`
+
+Database management system project — normalized schema design for a product catalog with queries for inventory, categories, pricing, and reporting using relational SQL.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/product-catalog-dbms-project)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <p align="center">
