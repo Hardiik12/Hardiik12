@@ -56,7 +56,7 @@ AI Agent Kernel & runtime for autonomous task execution, memory storage, and age
 
 College teammate-matching platform — a Discord/WhatsApp alternative for academic project teams. Real-time messaging, custom Volt & Ink design system, GSAP animations, RBAC.
 
-[![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://collabsphere.vercel.app)
+[![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://collabsphere-sand.vercel.app/)
 
 </td>
 </tr>
