@@ -169,10 +169,6 @@ Database management system project — normalized schema design for a product ca
 
 ## 📡 Live Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hardiik12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardiik12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hardiik12&theme=dark&hide_border=true&stroke=00f2fe&ring=b794f6&fire=00f2fe&currStreakLabel=b794f6" alt="GitHub Streak" />
