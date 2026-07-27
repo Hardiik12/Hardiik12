@@ -16,13 +16,19 @@
 
 ### 👨💻 About Me
 
-I'm an **AI Engineer & Full-Stack Architect** studying at KL Education Foundation (KLEF), building systems that sit at the intersection of AI agents, real-time platforms, and clean architecture.
+**AI Engineer • Full-Stack Developer • Problem Solver**
 
-- 🧠 Building **HardikOS** — an AI agent kernel & runtime
-- 🌐 Creator of **CollabSphere** — real-time college teammate matcher
-- 📈 Built **AlgoTrade** — a 27-class Java trading engine
-- 🤖 AI capstone: pathfinding robot simulation (BFS/DFS/UCS/A*)
-- 🎓 Student @ KL Education Foundation (KLEF)
+Building intelligent software that blends AI, automation, and scalable system design.
+
+- 🧠 **HardikOS** — AI Agent Operating System
+- 🌐 **CollabSphere** — AI-powered collaboration platform
+- 📈 **AlgoTrade** — Java-based algorithmic trading engine
+- 🤖 **AI Robotics** — Intelligent pathfinding simulator
+- 🏆 **9.9 CGPA** | 4★ CodeChef | PBL Honors Student
+- 🎓 **B.Tech CSE** @ KL Education Foundation (KLEF)
+
+**Currently exploring:**
+`Multi-Agent AI` `System Design` `Cloud & DevOps` `Full-Stack` `Open Source`
 
 </td>
 <td width="40%" valign="top">
