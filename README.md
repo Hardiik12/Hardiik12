@@ -142,7 +142,7 @@ OS-level CPU scheduling simulator — visualizes and compares FCFS, SJF, Round R
 
 Full-featured e-commerce frontend — product listings, cart management, category filtering, and a clean responsive checkout flow.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/E-commerce)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/E-commerce) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=github&logoColor=black)](https://hardiik12.github.io/E-commerce/)
 
 </td>
 </tr>
@@ -154,7 +154,7 @@ Full-featured e-commerce frontend — product listings, cart management, categor
 
 Database management system project — normalized schema design for a product catalog with queries for inventory, categories, pricing, and reporting using relational SQL.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/product-catalog-dbms-project)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/product-catalog-dbms-project) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://product-catalog-dbms-project.vercel.app)
 
 </td>
 <td width="50%" valign="top">
