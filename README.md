@@ -41,15 +41,74 @@ Building intelligent software that blends AI, automation, and scalable system de
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## ⚙️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<!-- Skill icons: dark theme in dark mode, light theme in light mode -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,postgres,prisma,python,flask,java,git,github,vscode,postman&perline=8&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,postgres,prisma,python,flask,java,git,github,vscode,postman&perline=8&theme=light" alt="Tech Stack" />
-</picture>
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**💻 Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+**🤖 AI & Data**
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🔧 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+**🧠 Core Skills**
+
+![DSA](https://img.shields.io/badge/DSA-00b4d8?style=flat-square&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-7209b7?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-e63946?style=flat-square&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-f77f00?style=flat-square&logoColor=white)
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-2d6a4f?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 
 ## 🛰️ Featured Builds
 
