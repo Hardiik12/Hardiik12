@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=20&descColor=b794f6" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
 </div>
 
 <br/>
