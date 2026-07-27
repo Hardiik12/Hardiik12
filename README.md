@@ -175,7 +175,7 @@ Database management system project — normalized schema design for a product ca
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hardiik12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Hardiik12&theme=dark&hide_border=true&stroke=00f2fe&ring=b794f6&fire=00f2fe&currStreakLabel=b794f6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
