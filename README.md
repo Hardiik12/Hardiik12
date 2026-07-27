@@ -170,16 +170,16 @@ Database management system project — normalized schema design for a product ca
 ## 📡 Live Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hardiik12&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardiik12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hardiik12&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardiik12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardiik12&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Hardiik12&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hardiik12&theme=radical&no-frame=true&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hardiik12&theme=radical&no-frame=true&column=6&margin-w=10" alt="Trophies" />
 </p>
 
 <div align="center">
