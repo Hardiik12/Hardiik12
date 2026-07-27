@@ -66,6 +66,8 @@ College teammate-matching platform — a Discord/WhatsApp alternative for academ
 
 Educational stock trading engine — 27 classes across persistence, execution, and UI layers, with an interactive class-diagram explorer.
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/AlgoTrade-Stock-Trading-Platform)
+
 </td>
 <td width="50%" valign="top">
 
@@ -73,6 +75,50 @@ Educational stock trading engine — 27 classes across persistence, execution, a
 `Python` `Flask` `Pathfinding`
 
 AI capstone grid-navigation system implementing BFS, DFS, UCS, and A* on an 8×8 matrix with a live JS visualizer.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗓️ Academic Planner**
+`JavaScript` `HTML` `CSS`
+
+Smart academic scheduling tool for students — manage coursework, deadlines, and study sessions in one organized dashboard.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/academic-planner) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/academic-planner/)
+
+</td>
+<td width="50%" valign="top">
+
+**🌦️ Weather App**
+`JavaScript` `REST API` `HTML/CSS`
+
+Real-time weather dashboard fetching live meteorological data — current conditions, forecasts, and location-based weather lookup.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/WeatherApp) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/WeatherApp/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 JavaScript Game**
+`JavaScript` `Canvas` `Game Dev`
+
+Interactive browser-based game built with vanilla JavaScript — featuring smooth game loop logic, collision detection, and score tracking.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/Javascript-Game-) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/Javascript-Game-/)
+
+</td>
+<td width="50%" valign="top">
+
+**🗂️ ProjectHub**
+`HTML` `CSS` `JavaScript`
+
+Centralized portfolio hub — a curated showcase of all projects with a clean card-based UI, category filtering, and live demo links.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/ProjectHub) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/ProjectHub/)
 
 </td>
 </tr>
