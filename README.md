@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Header: dark = deep purple/space, light = vibrant indigo-violet gradient -->
+<!-- Header: dark = deep space blue/cyan, light = indigo-magenta-gold -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=20&descColor=b794f6" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:020024,50:090979,100:00d4ff&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=00d4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,50:C850C0,100:FFCC70&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
 </picture>
 
 </div>
