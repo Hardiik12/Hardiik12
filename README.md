@@ -21,10 +21,10 @@
 Building intelligent software that blends AI, automation, and scalable system design.
 
 - 🧠 **HardikOS** — AI Agent Operating System
-- 🌐 **CollabSphere** — AI-powered collaboration platform
+- 🌐 **CollabSphere** — real-time college teammate matcher
 - 📈 **AlgoTrade** — Java-based algorithmic trading engine
 - 🤖 **AI Robotics** — Intelligent pathfinding simulator
-- 🏆 **9.9 CGPA** | 4★ CodeChef | PBL Honors Student
+- 🏆 **9 CGPA** | 4★ CodeChef | PBL Honors Student
 - 🎓 **B.Tech CSE** @ KL Education Foundation (KLEF)
 
 **Currently exploring:**
