@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=20&descColor=b794f6" width="100%" />
+<!-- Header: dark = deep purple/space, light = vibrant indigo-violet gradient -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=20&descColor=b794f6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=20&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Systems%20Builder&descAlignY=62&descSize=20&descColor=b794f6" width="100%" />
+</picture>
 
 </div>
 
@@ -33,8 +38,13 @@ I'm an **AI Engineer & Full-Stack Architect** studying at KL Education Foundatio
 
 ## ⚙️ Tech Arsenal
 
+<!-- Skill icons: dark theme in dark mode, light theme in light mode -->
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,postgres,prisma,python,flask,java,git,github,vscode,postman&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,postgres,prisma,python,flask,java,git,github,vscode,postman&perline=8&theme=light" />
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,postgres,prisma,python,flask,java,git,github,vscode,postman&perline=8&theme=dark" alt="Tech Stack" />
+</picture>
 </p>
 
 ## 🛰️ Featured Builds
@@ -163,19 +173,33 @@ Database management system project — normalized schema design for a product ca
 </tr>
 </table>
 
+<!-- Snake: dark SVG in dark mode, light SVG in light mode -->
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</picture>
 </p>
 
 ## 📡 Live Stats
 
-
+<!-- Streak: dark theme in dark mode, clean default in light mode -->
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hardiik12&theme=dark&hide_border=true&stroke=00f2fe&ring=b794f6&fire=00f2fe&currStreakLabel=b794f6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Hardiik12&theme=default&hide_border=true&stroke=764ba2&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
   <img src="https://streak-stats.demolab.com?user=Hardiik12&theme=dark&hide_border=true&stroke=00f2fe&ring=b794f6&fire=00f2fe&currStreakLabel=b794f6" alt="GitHub Streak" />
+</picture>
 </p>
 
+<!-- Activity Graph: tokyo-night in dark, github-light in light -->
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&theme=github-light&hide_border=true&area=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</picture>
 </p>
 
 <div align="center">
@@ -188,6 +212,11 @@ Database management system project — normalized schema design for a product ca
 
 <img src="https://komarev.com/ghpvc/?username=Hardiik12&label=Profile+Views&color=b794f6&style=flat-square" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&width=100%" />
+<!-- Footer: dark = space theme, light = vibrant gradient -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&width=100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&width=100%" width="100%" />
+</picture>
 
 </div>
