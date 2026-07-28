@@ -271,10 +271,6 @@ Database management system project — normalized schema design for a product ca
 
 <img src="https://komarev.com/ghpvc/?username=Hardiik12&label=Profile+Views&color=b794f6&style=flat-square" />
 
-<!-- Footer: dark = space theme, light = vibrant gradient -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&width=100%" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&width=100%" width="100%" />
-</picture>
+<img src="./footer.svg" width="100%" alt="Footer" />
 
 </div>
