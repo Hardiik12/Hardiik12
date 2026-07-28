@@ -87,7 +87,7 @@
 <g transform="translate(118,115)" opacity=".72">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; 2,-9; -1,-5; 1,-7; 0,0" keyTimes="0;.25;.5;.75;1"
-    dur="7s" repeatCount="indefinite" calcMode="spline"
+    dur="3s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <circle r="30" fill="#161B22" stroke="rgba(255,255,255,.2)" stroke-width="1.5"/>
   <!-- Octocat simplified -->
@@ -102,7 +102,7 @@
 <g transform="translate(198,58)" opacity=".78">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; -2,-8; 1,-5; -1,-9; 0,0" keyTimes="0;.3;.55;.75;1"
-    dur="8.5s" begin=".8s" repeatCount="indefinite" calcMode="spline"
+    dur="3.8s" begin=".8s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <ellipse rx="27" ry="10.5" stroke="#61DAFB" stroke-width="2.8" fill="none"/>
   <ellipse rx="27" ry="10.5" stroke="#61DAFB" stroke-width="2.8" fill="none" transform="rotate(60)"/>
@@ -114,7 +114,7 @@
 <g transform="translate(408,58)" opacity=".72">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; 1,-7; -2,-4; 0,0" keyTimes="0;.35;.7;1"
-    dur="6.5s" begin="1.5s" repeatCount="indefinite" calcMode="spline"
+    dur="2.8s" begin="1.5s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <rect x="-15" y="-26" width="24" height="26" rx="12" fill="#3776AB"/>
   <rect x="-9"  y="0"   width="24" height="26" rx="12" fill="#FFD43B"/>
@@ -128,7 +128,7 @@
 <g transform="translate(102,298)" opacity=".72">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; -2,-9; 1,-5; -2,-7; 0,0" keyTimes="0;.28;.55;.75;1"
-    dur="7.5s" begin=".3s" repeatCount="indefinite" calcMode="spline"
+    dur="3.2s" begin=".3s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <rect x="-24" y="-24" width="48" height="48" rx="9" fill="#3178C6"/>
   <text x="0" y="10" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
@@ -139,7 +139,7 @@
 <g transform="translate(155,400)" opacity=".65">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; -1,-8; 2,-5; 0,0" keyTimes="0;.4;.7;1"
-    dur="9s" begin="2s" repeatCount="indefinite" calcMode="spline"
+    dur="3.8s" begin="2s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <path d="M-8,-26 L-8,-7 L-22,18 Q-24,28 0,28 Q24,28 22,18 L8,-7 L8,-26 Z"
     stroke="rgba(255,255,255,.75)" stroke-width="2" fill="rgba(255,255,255,.07)"/>
@@ -153,7 +153,7 @@
 <g transform="translate(258,444)" opacity=".70">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; 2,-7; -2,-4; 0,0" keyTimes="0;.45;.7;1"
-    dur="8.2s" begin="3s" repeatCount="indefinite" calcMode="spline"
+    dur="3.5s" begin="3s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <circle r="26" fill="#0f172a" fill-opacity=".6" stroke="#06B6D4" stroke-width="1.8"/>
   <path d="M-16,2 Q-8,-12 0,2 Q8,16 16,2"
@@ -166,7 +166,7 @@
 <g transform="translate(1218,62)" opacity=".68">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; -1,-8; 2,-5; 0,0" keyTimes="0;.35;.7;1"
-    dur="8s" begin="1.2s" repeatCount="indefinite" calcMode="spline"
+    dur="3.5s" begin="1.2s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <circle r="28" fill="#336791" fill-opacity=".9"/>
   <text x="0" y="-3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
@@ -180,7 +180,7 @@
 <g transform="translate(1455,88)" opacity=".75">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; 1,-8; -2,-5; 1,-7; 0,0" keyTimes="0;.25;.5;.75;1"
-    dur="6.8s" begin="2.5s" repeatCount="indefinite" calcMode="spline"
+    dur="2.8s" begin="2.5s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <circle r="28" fill="#111" stroke="rgba(255,255,255,.18)" stroke-width="1.5"/>
   <text x="0" y="10" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
@@ -191,7 +191,7 @@
 <g transform="translate(1510,252)" opacity=".62">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; -3,-9; 2,-5; 0,0" keyTimes="0;.4;.7;1"
-    dur="9.5s" begin=".7s" repeatCount="indefinite" calcMode="spline"
+    dur="4s" begin=".7s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <circle r="25" fill="#333" fill-opacity=".8" stroke="rgba(255,255,255,.15)" stroke-width="1.2"/>
   <text x="0" y="6" text-anchor="middle" font-family="monospace"
@@ -202,7 +202,7 @@
 <g transform="translate(1478,378)" opacity=".65">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; -2,-8; 1,-5; -3,-7; 0,0" keyTimes="0;.28;.55;.78;1"
-    dur="9.8s" begin="2.2s" repeatCount="indefinite" calcMode="spline"
+    dur="4.2s" begin="2.2s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <polygon points="0,-28 24,14 -24,14" stroke="#818CF8" stroke-width="2" fill="rgba(129,140,248,.18)"/>
   <polygon points="0,-12 10,6 -10,6" fill="#818CF8" opacity=".7"/>
@@ -258,7 +258,7 @@
 <g transform="translate(1408,420)" opacity=".75">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; 1,-9; -2,-5; 2,-8; 0,0" keyTimes="0;.25;.5;.75;1"
-    dur="7.2s" begin="1.8s" repeatCount="indefinite" calcMode="spline"
+    dur="3s" begin="1.8s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="#339933"/>
   <text x="0" y="10" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
@@ -269,7 +269,7 @@
 <g transform="translate(730,452)" opacity=".70">
   <animateTransform attributeName="transform" type="translate" additive="sum"
     values="0,0; 3,-8; -1,-5; 0,0" keyTimes="0;.45;.7;1"
-    dur="6.3s" begin=".5s" repeatCount="indefinite" calcMode="spline"
+    dur="2.5s" begin=".5s" repeatCount="indefinite" calcMode="spline"
     keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
   <rect x="-18" y="-14" width="28" height="27" rx="5" fill="#5382A1"/>
   <path d="M10,-10 Q25,-10 22,5 Q20,16 10,13"
