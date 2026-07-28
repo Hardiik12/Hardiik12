@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header: vibrant gradient visible in both dark & light mode -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8338ec,50:e040fb,100:ff6ec7&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
+<!-- Header: pink to sky-blue gradient -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8198b,100:c7eafd&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=1a1a2e&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=1a1a2e" width="100%" />
 
 </div>
 
