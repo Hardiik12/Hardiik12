@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Header: dark = rich purple gradient, light = indigo-magenta-gold -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:240046,50:5a189a,100:9d4edd&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=e0aaff" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,50:C850C0,100:FFCC70&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
-</picture>
+<!-- Header: vibrant gradient visible in both dark & light mode -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8338ec,50:e040fb,100:ff6ec7&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
 
 </div>
 
