@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Header: dark = deep space blue/cyan, light = indigo-magenta-gold -->
+<!-- Header: dark = rich purple gradient, light = indigo-magenta-gold -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:020024,50:090979,100:00d4ff&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=00d4ff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:240046,50:5a189a,100:9d4edd&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=e0aaff" />
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,50:C850C0,100:FFCC70&height=280&section=header&text=HARDIK%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
 </picture>
 
@@ -76,6 +76,7 @@ Building intelligent software that blends AI, automation, and scalable system de
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **🤖 AI & Data**
