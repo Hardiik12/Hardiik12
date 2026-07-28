@@ -1,279 +1,282 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
 <defs>
-<style>
-.f1{animation:fl1 7s ease-in-out infinite}
-.f2{animation:fl2 8.5s ease-in-out infinite .8s}
-.f3{animation:fl3 6.5s ease-in-out infinite 1.5s}
-.f4{animation:fl4 9s ease-in-out infinite 2s}
-.f5{animation:fl5 7.5s ease-in-out infinite .3s}
-.f6{animation:fl6 8s ease-in-out infinite 1.2s}
-.f7{animation:fl1 6.8s ease-in-out infinite 2.5s}
-.f8{animation:fl2 9.5s ease-in-out infinite .7s}
-.f9{animation:fl3 7.2s ease-in-out infinite 1.8s}
-.f10{animation:fl4 8.2s ease-in-out infinite 3s}
-.f11{animation:fl5 6.3s ease-in-out infinite .5s}
-.f12{animation:fl6 9.8s ease-in-out infinite 2.2s}
-@keyframes fl1{0%,100%{transform:translate(0,0) rotate(0deg)}33%{transform:translate(2px,-7px) rotate(1.5deg)}66%{transform:translate(-1px,-4px) rotate(-1deg)}}
-@keyframes fl2{0%,100%{transform:translate(0,0) rotate(0deg)}40%{transform:translate(-3px,-9px) rotate(-2deg)}70%{transform:translate(2px,-5px) rotate(1deg)}}
-@keyframes fl3{0%,100%{transform:translate(0,0) rotate(0deg)}30%{transform:translate(1px,-6px) rotate(2.5deg)}60%{transform:translate(-2px,-3px) rotate(-.5deg)}}
-@keyframes fl4{0%,100%{transform:translate(0,0) rotate(0deg)}50%{transform:translate(-2px,-8px) rotate(-2.5deg)}}
-@keyframes fl5{0%,100%{transform:translate(0,0) rotate(0deg)}45%{transform:translate(3px,-7px) rotate(1deg)}75%{transform:translate(-1px,-4px) rotate(-1.5deg)}}
-@keyframes fl6{0%,100%{transform:translate(0,0) rotate(0deg)}35%{transform:translate(-3px,-6px) rotate(2deg)}65%{transform:translate(1px,-9px) rotate(-2deg)}}
-</style>
 
 <!-- Background gradient -->
 <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#0B1020"/>
+  <stop offset="0%"  stop-color="#0B1020"/>
   <stop offset="35%" stop-color="#141B34"/>
   <stop offset="68%" stop-color="#1e1b4b"/>
   <stop offset="100%" stop-color="#0B1020"/>
 </linearGradient>
 
-<!-- Aurora radial glows -->
+<!-- Aurora radials -->
 <radialGradient id="a1" cx="22%" cy="35%" r="50%">
-  <stop offset="0%" stop-color="#7C3AED" stop-opacity=".22"/>
+  <stop offset="0%"   stop-color="#7C3AED" stop-opacity=".28"/>
   <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="a2" cx="78%" cy="68%" r="48%">
-  <stop offset="0%" stop-color="#2563EB" stop-opacity=".18"/>
+  <stop offset="0%"   stop-color="#2563EB" stop-opacity=".22"/>
   <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="a3" cx="58%" cy="18%" r="40%">
-  <stop offset="0%" stop-color="#4338CA" stop-opacity=".2"/>
+  <stop offset="0%"   stop-color="#4338CA" stop-opacity=".24"/>
   <stop offset="100%" stop-color="#4338CA" stop-opacity="0"/>
 </radialGradient>
-<radialGradient id="a4" cx="50%" cy="50%" r="35%">
-  <stop offset="0%" stop-color="#7C3AED" stop-opacity=".07"/>
-  <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
-</radialGradient>
 
-<!-- Card glass shine gradient -->
-<linearGradient id="card-shine" x1="0%" y1="0%" x2="0%" y2="100%">
-  <stop offset="0%" stop-color="white" stop-opacity=".12"/>
-  <stop offset="45%" stop-color="white" stop-opacity=".03"/>
+<!-- Card shine (top half) -->
+<linearGradient id="shine" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%"   stop-color="white" stop-opacity=".14"/>
+  <stop offset="55%"  stop-color="white" stop-opacity=".03"/>
   <stop offset="100%" stop-color="white" stop-opacity="0"/>
 </linearGradient>
 
-<!-- Card glow filter -->
-<filter id="card-glow" x="-25%" y="-40%" width="150%" height="180%">
-  <feDropShadow dx="0" dy="0" stdDeviation="28" flood-color="#7C3AED" flood-opacity=".18"/>
-  <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#312E81" flood-opacity=".25"/>
+<!-- Card drop-shadow/glow -->
+<filter id="cg" x="-20%" y="-30%" width="140%" height="160%">
+  <feDropShadow dx="0" dy="0"  stdDeviation="32" flood-color="#7C3AED" flood-opacity=".2"/>
+  <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#4338CA" flood-opacity=".18"/>
 </filter>
 
-<!-- Soft blur filter for blob backgrounds -->
-<filter id="blob-blur">
-  <feGaussianBlur stdDeviation="40"/>
-</filter>
-<filter id="blob-blur2">
-  <feGaussianBlur stdDeviation="28"/>
-</filter>
-
-<!-- Icon soft glow filter -->
-<filter id="icon-glow" x="-60%" y="-60%" width="220%" height="220%">
-  <feGaussianBlur stdDeviation="5" result="b"/>
-  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
-<!-- Slightly more blur for distant icons -->
-<filter id="icon-far" x="-60%" y="-60%" width="220%" height="220%">
-  <feGaussianBlur stdDeviation="1.8" result="b"/>
-  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
-
-<!-- Noise texture -->
-<filter id="noise" x="0%" y="0%" width="100%" height="100%">
-  <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="4" stitchTiles="stitch" result="n"/>
-  <feColorMatrix type="saturate" values="0" in="n" result="gn"/>
-  <feBlend in="SourceGraphic" in2="gn" mode="overlay" result="bl"/>
-  <feComposite in="bl" in2="SourceGraphic" operator="in"/>
-</filter>
 </defs>
 
-<!-- ══════════ BACKGROUND ══════════ -->
+<!-- ═══ BACKGROUND ═══ -->
 <rect width="1600" height="500" fill="url(#bg)"/>
-
-<!-- Aurora overlays -->
 <rect width="1600" height="500" fill="url(#a1)"/>
 <rect width="1600" height="500" fill="url(#a2)"/>
 <rect width="1600" height="500" fill="url(#a3)"/>
-<rect width="1600" height="500" fill="url(#a4)"/>
 
-<!-- Ambient light blobs -->
-<ellipse cx="260" cy="160" rx="220" ry="110" fill="#7C3AED" opacity=".07" filter="url(#blob-blur)"/>
-<ellipse cx="1340" cy="340" rx="200" ry="100" fill="#2563EB" opacity=".08" filter="url(#blob-blur)"/>
-<ellipse cx="800" cy="480" rx="300" ry="80" fill="#4338CA" opacity=".06" filter="url(#blob-blur)"/>
-<ellipse cx="1100" cy="80" rx="150" ry="60" fill="#7C3AED" opacity=".06" filter="url(#blob-blur2)"/>
-<ellipse cx="450" cy="400" rx="130" ry="60" fill="#312E81" opacity=".07" filter="url(#blob-blur2)"/>
+<!-- Soft ambient blobs -->
+<ellipse cx="240"  cy="165" rx="220" ry="110" fill="#7C3AED" opacity=".055"/>
+<ellipse cx="1360" cy="338" rx="210" ry="105" fill="#2563EB" opacity=".065"/>
+<ellipse cx="800"  cy="490" rx="340" ry="85"  fill="#4338CA" opacity=".05"/>
+<ellipse cx="1100" cy="75"  rx="160" ry="65"  fill="#7C3AED" opacity=".05"/>
 
-<!-- Noise overlay for texture -->
-<rect width="1600" height="500" fill="white" opacity=".02" filter="url(#noise)"/>
+<!-- Stars -->
+<circle cx="52"   cy="38"  r="1.2" fill="white" opacity=".38"/>
+<circle cx="148"  cy="22"  r=".9"  fill="white" opacity=".28"/>
+<circle cx="285"  cy="44"  r="1.3" fill="white" opacity=".32"/>
+<circle cx="435"  cy="18"  r="1"   fill="white" opacity=".3"/>
+<circle cx="525"  cy="36"  r=".8"  fill="white" opacity=".24"/>
+<circle cx="685"  cy="28"  r="1.1" fill="white" opacity=".35"/>
+<circle cx="825"  cy="12"  r=".9"  fill="white" opacity=".22"/>
+<circle cx="1015" cy="42"  r="1.2" fill="white" opacity=".3"/>
+<circle cx="1155" cy="22"  r="1"   fill="white" opacity=".32"/>
+<circle cx="1305" cy="38"  r=".8"  fill="white" opacity=".24"/>
+<circle cx="1448" cy="16"  r="1.1" fill="white" opacity=".35"/>
+<circle cx="1558" cy="44"  r=".9"  fill="white" opacity=".22"/>
+<circle cx="40"   cy="205" r=".9"  fill="white" opacity=".2"/>
+<circle cx="95"   cy="450" r=".8"  fill="white" opacity=".24"/>
+<circle cx="345"  cy="478" r="1.1" fill="white" opacity=".28"/>
+<circle cx="705"  cy="490" r=".9"  fill="white" opacity=".22"/>
+<circle cx="1058" cy="476" r="1"   fill="white" opacity=".24"/>
+<circle cx="1258" cy="488" r=".8"  fill="white" opacity=".2"/>
+<circle cx="1514" cy="460" r="1.1" fill="white" opacity=".3"/>
+<circle cx="1582" cy="385" r=".9"  fill="white" opacity=".22"/>
+<circle cx="1572" cy="132" r="1"   fill="white" opacity=".28"/>
+<circle cx="205"  cy="172" r=".8"  fill="white" opacity=".22"/>
+<circle cx="485"  cy="462" r="1"   fill="white" opacity=".24"/>
+<circle cx="964"  cy="470" r=".9"  fill="white" opacity=".2"/>
+<circle cx="1385" cy="132" r="1.1" fill="white" opacity=".3"/>
+<circle cx="68"   cy="338" r=".9"  fill="white" opacity=".22"/>
+<circle cx="1545" cy="298" r=".8"  fill="white" opacity=".2"/>
+<circle cx="878"  cy="470" r="1"   fill="white" opacity=".24"/>
+<circle cx="1458" cy="195" r=".7"  fill="white" opacity=".2"/>
 
-<!-- ══════════ STARS / PARTICLES ══════════ -->
-<circle cx="52" cy="38" r=".9" fill="white" opacity=".35"/>
-<circle cx="143" cy="22" r=".7" fill="white" opacity=".25"/>
-<circle cx="280" cy="45" r="1.1" fill="white" opacity=".3"/>
-<circle cx="430" cy="18" r=".8" fill="white" opacity=".28"/>
-<circle cx="520" cy="35" r=".6" fill="white" opacity=".22"/>
-<circle cx="680" cy="28" r=".9" fill="white" opacity=".32"/>
-<circle cx="820" cy="12" r=".7" fill="white" opacity=".2"/>
-<circle cx="1010" cy="42" r="1" fill="white" opacity=".28"/>
-<circle cx="1150" cy="20" r=".8" fill="white" opacity=".3"/>
-<circle cx="1300" cy="38" r=".6" fill="white" opacity=".22"/>
-<circle cx="1440" cy="15" r=".9" fill="white" opacity=".32"/>
-<circle cx="1555" cy="44" r=".7" fill="white" opacity=".2"/>
-<circle cx="38" cy="200" r=".8" fill="white" opacity=".18"/>
-<circle cx="90" cy="450" r=".6" fill="white" opacity=".22"/>
-<circle cx="340" cy="480" r=".9" fill="white" opacity=".25"/>
-<circle cx="700" cy="490" r=".7" fill="white" opacity=".2"/>
-<circle cx="1050" cy="475" r=".8" fill="white" opacity=".22"/>
-<circle cx="1250" cy="488" r=".6" fill="white" opacity=".18"/>
-<circle cx="1510" cy="460" r=".9" fill="white" opacity=".28"/>
-<circle cx="1580" cy="380" r=".7" fill="white" opacity=".2"/>
-<circle cx="1570" cy="130" r=".8" fill="white" opacity=".25"/>
-<circle cx="1480" cy="200" r=".5" fill="white" opacity=".18"/>
-<circle cx="200" cy="170" r=".6" fill="white" opacity=".2"/>
-<circle cx="480" cy="460" r=".8" fill="white" opacity=".22"/>
-<circle cx="960" cy="468" r=".7" fill="white" opacity=".18"/>
-<circle cx="1380" cy="130" r=".9" fill="white" opacity=".28"/>
-<circle cx="65" cy="335" r=".7" fill="white" opacity=".2"/>
-<circle cx="1540" cy="295" r=".6" fill="white" opacity=".18"/>
+<!-- ═══ BACK-LAYER ICONS ═══ -->
 
-<!-- ══════════ BACK-LAYER ICONS (behind card) ══════════ -->
-
-<!-- GitHub — top-left corner -->
-<g class="f1" transform="translate(88,108)" opacity=".23" filter="url(#icon-far)">
-  <circle r="23" fill="#161B22" stroke="rgba(255,255,255,.12)" stroke-width="1.2"/>
-  <circle r="9.5" cy="-1" fill="white" opacity=".9"/>
-  <path d="M-10,7 L-15,16" stroke="white" stroke-width="2" stroke-linecap="round" opacity=".75"/>
-  <path d="M-5,11 L-7,18" stroke="white" stroke-width="2" stroke-linecap="round" opacity=".75"/>
-  <path d="M5,11 L7,18" stroke="white" stroke-width="2" stroke-linecap="round" opacity=".75"/>
-  <path d="M10,7 L15,16" stroke="white" stroke-width="2" stroke-linecap="round" opacity=".75"/>
+<!-- GitHub ── top-left -->
+<g transform="translate(118,115)" opacity=".72">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; 2,-9; -1,-5; 1,-7; 0,0" keyTimes="0;.25;.5;.75;1"
+    dur="7s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <circle r="30" fill="#161B22" stroke="rgba(255,255,255,.2)" stroke-width="1.5"/>
+  <!-- Octocat simplified -->
+  <circle r="12" cy="-2" fill="white" opacity=".92"/>
+  <path d="M-13,8 L-19,20" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M-7,14 L-9,22" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M7,14 L9,22"   stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M13,8 L19,20"  stroke="white" stroke-width="3" stroke-linecap="round"/>
 </g>
 
-<!-- React — top-left area -->
-<g class="f2" transform="translate(178,62)" opacity=".3" filter="url(#icon-glow)">
-  <ellipse rx="24" ry="9.5" stroke="#61DAFB" stroke-width="2" fill="none"/>
-  <ellipse rx="24" ry="9.5" stroke="#61DAFB" stroke-width="2" fill="none" transform="rotate(60)"/>
-  <ellipse rx="24" ry="9.5" stroke="#61DAFB" stroke-width="2" fill="none" transform="rotate(120)"/>
-  <circle r="4" fill="#61DAFB"/>
+<!-- React ── top area left -->
+<g transform="translate(198,58)" opacity=".78">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; -2,-8; 1,-5; -1,-9; 0,0" keyTimes="0;.3;.55;.75;1"
+    dur="8.5s" begin=".8s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <ellipse rx="27" ry="10.5" stroke="#61DAFB" stroke-width="2.8" fill="none"/>
+  <ellipse rx="27" ry="10.5" stroke="#61DAFB" stroke-width="2.8" fill="none" transform="rotate(60)"/>
+  <ellipse rx="27" ry="10.5" stroke="#61DAFB" stroke-width="2.8" fill="none" transform="rotate(120)"/>
+  <circle r="4.5" fill="#61DAFB"/>
 </g>
 
-<!-- Python — top area, left-center -->
-<g class="f3" transform="translate(395,70)" opacity=".26" filter="url(#icon-far)">
-  <rect x="-14" y="-24" width="22" height="24" rx="11" fill="#3776AB"/>
-  <rect x="-8" y="0" width="22" height="24" rx="11" fill="#FFD43B"/>
-  <circle cx="-3" cy="-14" r="2.8" fill="white" opacity=".9"/>
-  <circle cx="13" cy="14" r="2.8" fill="white" opacity=".9"/>
-  <line x1="8" y1="-24" x2="8" y2="-14" stroke="#FFD43B" stroke-width="2.2" stroke-linecap="round"/>
-  <line x1="-14" y1="10" x2="-8" y2="10" stroke="#3776AB" stroke-width="2.2" stroke-linecap="round"/>
+<!-- Python ── top center-left -->
+<g transform="translate(408,58)" opacity=".72">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; 1,-7; -2,-4; 0,0" keyTimes="0;.35;.7;1"
+    dur="6.5s" begin="1.5s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <rect x="-15" y="-26" width="24" height="26" rx="12" fill="#3776AB"/>
+  <rect x="-9"  y="0"   width="24" height="26" rx="12" fill="#FFD43B"/>
+  <circle cx="-4" cy="-15" r="3.2" fill="white" opacity=".9"/>
+  <circle cx="14" cy="15"  r="3.2" fill="white" opacity=".9"/>
+  <line x1="9"  y1="-26" x2="9"  y2="-14" stroke="#FFD43B" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="-15" y1="12" x2="-9" y2="12"  stroke="#3776AB" stroke-width="2.5" stroke-linecap="round"/>
 </g>
 
-<!-- TypeScript — left side -->
-<g class="f5" transform="translate(88,295)" opacity=".26" filter="url(#icon-far)">
-  <rect x="-22" y="-22" width="44" height="44" rx="8" fill="#3178C6"/>
-  <text x="0" y="9" text-anchor="middle" font-family="'SF Pro Display',Inter,system-ui,sans-serif" font-size="16" font-weight="700" fill="white">TS</text>
+<!-- TypeScript ── left side -->
+<g transform="translate(102,298)" opacity=".72">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; -2,-9; 1,-5; -2,-7; 0,0" keyTimes="0;.28;.55;.75;1"
+    dur="7.5s" begin=".3s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <rect x="-24" y="-24" width="48" height="48" rx="9" fill="#3178C6"/>
+  <text x="0" y="10" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
+    font-size="19" font-weight="700" fill="white">TS</text>
 </g>
 
-<!-- Flask — bottom-left -->
-<g class="f4" transform="translate(148,388)" opacity=".2" filter="url(#icon-far)">
-  <path d="M-7,-22 L-7,-6 L-20,16 Q-22,24 0,24 Q22,24 20,16 L7,-6 L7,-22 Z" stroke="rgba(255,255,255,.65)" stroke-width="1.5" fill="rgba(255,255,255,.05)"/>
-  <line x1="-9" y1="-22" x2="9" y2="-22" stroke="rgba(255,255,255,.65)" stroke-width="1.5"/>
-  <path d="M-16,12 Q-10,4 0,8 Q10,12 16,12 Q15,22 0,22 Q-15,22 -16,12 Z" fill="#60a5fa" opacity=".5"/>
-  <circle cx="5" cy="2" r="2" fill="rgba(255,255,255,.3)"/>
+<!-- Flask ── bottom-left -->
+<g transform="translate(155,400)" opacity=".65">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; -1,-8; 2,-5; 0,0" keyTimes="0;.4;.7;1"
+    dur="9s" begin="2s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <path d="M-8,-26 L-8,-7 L-22,18 Q-24,28 0,28 Q24,28 22,18 L8,-7 L8,-26 Z"
+    stroke="rgba(255,255,255,.75)" stroke-width="2" fill="rgba(255,255,255,.07)"/>
+  <line x1="-10" y1="-26" x2="10" y2="-26" stroke="rgba(255,255,255,.75)" stroke-width="2"/>
+  <path d="M-18,14 Q-10,5 0,9 Q10,13 18,14 Q17,26 0,26 Q-17,26 -18,14 Z"
+    fill="#60a5fa" opacity=".6"/>
+  <circle cx="6" cy="2" r="2.5" fill="rgba(255,255,255,.4)"/>
 </g>
 
-<!-- Tailwind CSS — bottom-left area -->
-<g class="f10" transform="translate(232,432)" opacity=".25" filter="url(#icon-glow)">
-  <circle r="23" fill="#0f172a" fill-opacity=".5" stroke="#06B6D4" stroke-width="1.2"/>
-  <path d="M-14,2 Q-7,-10 0,2 Q7,14 14,2" stroke="#06B6D4" stroke-width="2.8" fill="none" stroke-linecap="round"/>
-  <path d="M-14,-5 Q-7,-17 0,-5 Q7,7 14,-5" stroke="#06B6D4" stroke-width="2.2" fill="none" stroke-linecap="round" opacity=".55"/>
+<!-- Tailwind CSS ── bottom-left area -->
+<g transform="translate(258,444)" opacity=".70">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; 2,-7; -2,-4; 0,0" keyTimes="0;.45;.7;1"
+    dur="8.2s" begin="3s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <circle r="26" fill="#0f172a" fill-opacity=".6" stroke="#06B6D4" stroke-width="1.8"/>
+  <path d="M-16,2 Q-8,-12 0,2 Q8,16 16,2"
+    stroke="#06B6D4" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M-16,-5 Q-8,-19 0,-5 Q8,9 16,-5"
+    stroke="#06B6D4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".5"/>
 </g>
 
-<!-- PostgreSQL — top-right area -->
-<g class="f6" transform="translate(1195,62)" opacity=".23" filter="url(#icon-far)">
-  <circle r="23" fill="#336791" fill-opacity=".88"/>
-  <text x="0" y="-2" text-anchor="middle" font-family="'SF Pro Display',Inter,system-ui,sans-serif" font-size="9" font-weight="700" fill="white" opacity=".9">POST</text>
-  <text x="0" y="10" text-anchor="middle" font-family="'SF Pro Display',Inter,system-ui,sans-serif" font-size="9" font-weight="700" fill="white" opacity=".9">GRES</text>
-  <!-- Elephant tusk hint -->
-  <path d="M-8,-18 Q-12,-22 -14,-18" stroke="white" stroke-width="1.5" fill="none" opacity=".5"/>
+<!-- PostgreSQL ── top-right area -->
+<g transform="translate(1218,62)" opacity=".68">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; -1,-8; 2,-5; 0,0" keyTimes="0;.35;.7;1"
+    dur="8s" begin="1.2s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <circle r="28" fill="#336791" fill-opacity=".9"/>
+  <text x="0" y="-3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
+    font-size="10" font-weight="700" fill="white">POST</text>
+  <text x="0" y="11" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
+    font-size="10" font-weight="700" fill="white">GRES</text>
+  <path d="M-9,-22 Q-14,-27 -16,-22" stroke="white" stroke-width="2" fill="none" opacity=".55"/>
 </g>
 
-<!-- Next.js — top-right corner -->
-<g class="f7" transform="translate(1450,85)" opacity=".28" filter="url(#icon-far)">
-  <circle r="23" fill="#000" fill-opacity=".82" stroke="rgba(255,255,255,.14)" stroke-width="1.2"/>
-  <text x="0" y="8" text-anchor="middle" font-family="'SF Pro Display',Inter,system-ui,sans-serif" font-size="20" font-weight="700" fill="white">N</text>
+<!-- Next.js ── top-right corner -->
+<g transform="translate(1455,88)" opacity=".75">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; 1,-8; -2,-5; 1,-7; 0,0" keyTimes="0;.25;.5;.75;1"
+    dur="6.8s" begin="2.5s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <circle r="28" fill="#111" stroke="rgba(255,255,255,.18)" stroke-width="1.5"/>
+  <text x="0" y="10" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
+    font-size="26" font-weight="700" fill="white">N</text>
 </g>
 
-<!-- Express — far right -->
-<g class="f8" transform="translate(1508,248)" opacity=".2" filter="url(#icon-far)">
-  <circle r="21" fill="#353535" fill-opacity=".7" stroke="rgba(255,255,255,.1)" stroke-width="1"/>
-  <text x="0" y="5" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1" fill="rgba(255,255,255,.85)">ex</text>
+<!-- Express ── far right -->
+<g transform="translate(1510,252)" opacity=".62">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; -3,-9; 2,-5; 0,0" keyTimes="0;.4;.7;1"
+    dur="9.5s" begin=".7s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <circle r="25" fill="#333" fill-opacity=".8" stroke="rgba(255,255,255,.15)" stroke-width="1.2"/>
+  <text x="0" y="6" text-anchor="middle" font-family="monospace"
+    font-size="13" letter-spacing="1.5" fill="rgba(255,255,255,.9)">ex</text>
 </g>
 
-<!-- Prisma — right side -->
-<g class="f12" transform="translate(1478,368)" opacity=".22" filter="url(#icon-far)">
-  <polygon points="0,-24 21,12 -21,12" stroke="#818CF8" stroke-width="1.5" fill="rgba(129,140,248,.12)"/>
-  <polygon points="0,-10 9,5 -9,5" fill="#818CF8" opacity=".6"/>
+<!-- Prisma ── right-bottom -->
+<g transform="translate(1478,378)" opacity=".65">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; -2,-8; 1,-5; -3,-7; 0,0" keyTimes="0;.28;.55;.78;1"
+    dur="9.8s" begin="2.2s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <polygon points="0,-28 24,14 -24,14" stroke="#818CF8" stroke-width="2" fill="rgba(129,140,248,.18)"/>
+  <polygon points="0,-12 10,6 -10,6" fill="#818CF8" opacity=".7"/>
 </g>
 
-<!-- ══════════ GLASS CARD ══════════ -->
-<g filter="url(#card-glow)">
-  <!-- Main card body -->
-  <rect x="570" y="143" width="460" height="214" rx="28" ry="28"
-    fill="rgba(255,255,255,.072)" stroke="rgba(255,255,255,.09)" stroke-width="1"/>
-  <!-- Inner top shine -->
-  <rect x="571" y="144" width="458" height="107" rx="28" ry="28"
-    fill="url(#card-shine)"/>
-  <!-- Subtle bottom inner border -->
-  <line x1="610" y1="356" x2="990" y2="356" stroke="rgba(255,255,255,.04)" stroke-width="1"/>
+<!-- ═══ GLASS CARD ═══ -->
+<g filter="url(#cg)">
+  <rect x="490" y="100" width="620" height="300" rx="28"
+    fill="rgba(255,255,255,.076)" stroke="rgba(255,255,255,.1)" stroke-width="1"/>
+  <!-- Top inner shine -->
+  <rect x="491" y="101" width="618" height="150" rx="28" fill="url(#shine)"/>
+</g>
+<!-- Accent line on card top-center -->
+<rect x="670" y="100" width="260" height="1.5" rx=".75" fill="rgba(139,92,246,.65)"/>
+
+<!-- ═══ CARD TEXT (fade-in via SMIL) ═══ -->
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;.15;1" dur="2.2s" fill="freeze"/>
+
+  <!-- Title -->
+  <text x="800" y="152" text-anchor="middle"
+    font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500"
+    letter-spacing="5" fill="rgba(255,255,255,.52)">&#x1F680;  THANKS FOR VISITING</text>
+
+  <!-- Divider under title -->
+  <line x1="695" y1="166" x2="905" y2="166" stroke="rgba(255,255,255,.09)" stroke-width=".8"/>
+
+  <!-- Quote text -->
+  <text x="800" y="210" text-anchor="middle"
+    font-family="Arial,Helvetica,sans-serif" font-size="23" fill="rgba(255,255,255,.8)" letter-spacing=".3">
+    Great software starts with curiosity,</text>
+  <text x="800" y="244" text-anchor="middle"
+    font-family="Arial,Helvetica,sans-serif" font-size="23" fill="rgba(255,255,255,.8)" letter-spacing=".3">
+    grows through consistency,</text>
+  <text x="800" y="278" text-anchor="middle"
+    font-family="Arial,Helvetica,sans-serif" font-size="23" fill="rgba(255,255,255,.8)" letter-spacing=".3">
+    and creates impact through action.</text>
+
+  <!-- Divider -->
+  <line x1="726" y1="300" x2="874" y2="300" stroke="rgba(255,255,255,.12)" stroke-width=".8"/>
+
+  <!-- Attribution with slow pulse -->
+  <text x="800" y="327" text-anchor="middle"
+    font-family="Arial,Helvetica,sans-serif" font-size="15" font-style="italic"
+    fill="rgba(255,255,255,.4)" letter-spacing="1">&#8212; Hardik Gupta
+    <animate attributeName="opacity" values="1;.65;1" dur="3.5s" begin="2.5s" repeatCount="indefinite"/>
+  </text>
 </g>
 
-<!-- Card top accent line -->
-<rect x="680" y="143" width="240" height="1.2" rx=".6" fill="rgba(139,92,246,.55)"/>
+<!-- ═══ FRONT-LAYER ICONS ═══ -->
 
-<!-- Card content -->
-<!-- Rocket emoji + title -->
-<text x="800" y="188" text-anchor="middle"
-  font-family="'SF Pro Display',Inter,system-ui,sans-serif"
-  font-size="13" font-weight="500" letter-spacing="3.5" fill="rgba(255,255,255,.5)">🚀  THANKS FOR VISITING</text>
-
-<!-- Thin separator -->
-<line x1="700" y1="200" x2="900" y2="200" stroke="rgba(255,255,255,.08)" stroke-width=".8"/>
-
-<!-- Quote lines -->
-<text x="800" y="228" text-anchor="middle"
-  font-family="'SF Pro Display',Inter,system-ui,sans-serif"
-  font-size="15.5" fill="rgba(255,255,255,.72)" letter-spacing=".3">Great software starts with curiosity,</text>
-<text x="800" y="252" text-anchor="middle"
-  font-family="'SF Pro Display',Inter,system-ui,sans-serif"
-  font-size="15.5" fill="rgba(255,255,255,.72)" letter-spacing=".3">grows through consistency,</text>
-<text x="800" y="276" text-anchor="middle"
-  font-family="'SF Pro Display',Inter,system-ui,sans-serif"
-  font-size="15.5" fill="rgba(255,255,255,.72)" letter-spacing=".3">and creates impact through action.</text>
-
-<!-- Divider line in card -->
-<line x1="720" y1="294" x2="880" y2="294" stroke="rgba(255,255,255,.1)" stroke-width=".8"/>
-
-<!-- Attribution -->
-<text x="800" y="320" text-anchor="middle"
-  font-family="'SF Pro Display',Inter,system-ui,sans-serif"
-  font-size="12.5" fill="rgba(255,255,255,.38)" font-style="italic" letter-spacing=".8">— Hardik Gupta</text>
-
-<!-- ══════════ FRONT-LAYER ICONS (in front of card) ══════════ -->
-
-<!-- Node.js — bottom-right, partially in front -->
-<g class="f9" transform="translate(1398,408)" opacity=".27" filter="url(#icon-glow)">
-  <polygon points="0,-25 21.6,-12.5 21.6,12.5 0,25 -21.6,12.5 -21.6,-12.5" fill="#339933"/>
-  <text x="0" y="8" text-anchor="middle" font-family="'SF Pro Display',Inter,system-ui,sans-serif" font-size="16" font-weight="700" fill="white">N</text>
+<!-- Node.js ── bottom-right -->
+<g transform="translate(1408,420)" opacity=".75">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; 1,-9; -2,-5; 2,-8; 0,0" keyTimes="0;.25;.5;.75;1"
+    dur="7.2s" begin="1.8s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="#339933"/>
+  <text x="0" y="10" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"
+    font-size="20" font-weight="700" fill="white">N</text>
 </g>
 
-<!-- Java — bottom-center area, floating in front -->
-<g class="f11" transform="translate(718,448)" opacity=".25" filter="url(#icon-glow)">
-  <rect x="-16" y="-12" width="26" height="24" rx="4" fill="#5382A1"/>
-  <path d="M10,-8 Q22,-8 20,4 Q18,13 10,11" stroke="#F89820" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-  <rect x="-16" y="14" width="26" height="3.5" rx="1.8" fill="#F89820"/>
-  <text x="-3" y="7" text-anchor="middle"
-    font-family="'SF Pro Display',Inter,system-ui,sans-serif"
-    font-size="13" font-weight="700" fill="white">J</text>
+<!-- Java ── bottom-center -->
+<g transform="translate(730,452)" opacity=".70">
+  <animateTransform attributeName="transform" type="translate" additive="sum"
+    values="0,0; 3,-8; -1,-5; 0,0" keyTimes="0;.45;.7;1"
+    dur="6.3s" begin=".5s" repeatCount="indefinite" calcMode="spline"
+    keySplines=".45,0,.55,1;.45,0,.55,1;.45,0,.55,1"/>
+  <rect x="-18" y="-14" width="28" height="27" rx="5" fill="#5382A1"/>
+  <path d="M10,-10 Q25,-10 22,5 Q20,16 10,13"
+    stroke="#F89820" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="-18" y="16" width="28" height="4" rx="2" fill="#F89820"/>
+  <text x="-4" y="8" text-anchor="middle"
+    font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="white">J</text>
 </g>
 
 </svg>
