@@ -11,9 +11,9 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👨💻 About Me
+### 👨‍💻 About Me
 
-**AI Engineer • Full-Stack Developer • Problem Solver**
+**AI Builder • Full-Stack Developer • Open Source Enthusiast**
 
 Building intelligent software that blends AI, automation, and scalable system design.
 
@@ -25,7 +25,7 @@ Building intelligent software that blends AI, automation, and scalable system de
 - 🎓 **B.Tech CSE** @ KL Education Foundation (KLEF)
 
 **Currently exploring:**
-`Multi-Agent AI` `System Design` `Cloud & DevOps` `Full-Stack` `Open Source`
+`Multi-Agent AI` `System Design` `Cloud & DevOps` `Spring Boot` `Open Source`
 
 </td>
 <td width="40%" valign="top">
@@ -48,8 +48,9 @@ Building intelligent software that blends AI, automation, and scalable system de
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -67,21 +68,21 @@ Building intelligent software that blends AI, automation, and scalable system de
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **🤖 AI & Data**
 
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -90,17 +91,19 @@ Building intelligent software that blends AI, automation, and scalable system de
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **🧠 Core Skills**
 
 ![DSA](https://img.shields.io/badge/DSA-00b4d8?style=flat-square&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-7209b7?style=flat-square&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-e63946?style=flat-square&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-e63946?style=flat-square&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-f77f00?style=flat-square&logoColor=white)
 ![Team Leadership](https://img.shields.io/badge/Team%20Leadership-2d6a4f?style=flat-square&logoColor=white)
 
@@ -155,54 +158,10 @@ AI capstone grid-navigation system implementing BFS, DFS, UCS, and A* on an 8×8
 <tr>
 <td width="50%" valign="top">
 
-**🗓️ Academic Planner**
-`JavaScript` `HTML` `CSS`
-
-Smart academic scheduling tool for students — manage coursework, deadlines, and study sessions in one organized dashboard.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/academic-planner) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/academic-planner/)
-
-</td>
-<td width="50%" valign="top">
-
-**🌦️ Weather App**
-`JavaScript` `REST API` `HTML/CSS`
-
-Real-time weather dashboard fetching live meteorological data — current conditions, forecasts, and location-based weather lookup.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/WeatherApp) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/WeatherApp/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 JavaScript Game**
-`JavaScript` `Canvas` `Game Dev`
-
-Interactive browser-based game built with vanilla JavaScript — featuring smooth game loop logic, collision detection, and score tracking.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/Javascript-Game-) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/Javascript-Game-/)
-
-</td>
-<td width="50%" valign="top">
-
-**🗂️ ProjectHub**
-`HTML` `CSS` `JavaScript`
-
-Centralized portfolio hub — a curated showcase of all projects with a clean card-based UI, category filtering, and live demo links.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/ProjectHub) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/ProjectHub/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚡ CPU Scheduling Burst Analyzer**
+**⚡ CPU Scheduling Analyzer**
 `Java` `OS Concepts` `Algorithms`
 
-OS-level CPU scheduling simulator — visualizes and compares FCFS, SJF, Round Robin, and Priority scheduling algorithms with burst time analysis and Gantt chart output.
+OS-level CPU scheduling simulator — visualizes and compares FCFS, SJF, Round Robin, and Priority scheduling with Gantt chart output.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/CPU-Scheduling-Burst-Analyzer) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=github&logoColor=black)](https://hardiik12.github.io/CPU-Scheduling-Burst-Analyzer/)
 
@@ -221,21 +180,50 @@ Full-featured e-commerce frontend — product listings, cart management, categor
 <tr>
 <td width="50%" valign="top">
 
-**🗃️ Product Catalog DBMS**
-`SQL` `DBMS` `Database Design`
+**🗓️ Academic Planner**
+`JavaScript` `HTML` `CSS`
 
-Database management system project — normalized schema design for a product catalog with queries for inventory, categories, pricing, and reporting using relational SQL.
+Smart academic scheduling tool — manage coursework, deadlines, and study sessions in one organized dashboard.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/product-catalog-dbms-project) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://product-catalog-dbms-project.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/academic-planner) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/academic-planner/)
 
 </td>
 <td width="50%" valign="top">
+
+**🌦️ Weather App**
+`JavaScript` `REST API` `HTML/CSS`
+
+Real-time weather dashboard — current conditions, forecasts, and location-based weather lookup via live meteorological API.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/WeatherApp) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/WeatherApp/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 JavaScript Game**
+`JavaScript` `Canvas` `Game Dev`
+
+Interactive browser-based game — smooth game loop, collision detection, and score tracking built with vanilla JS.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/Javascript-Game-) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://hardiik12.github.io/Javascript-Game-/)
+
+</td>
+<td width="50%" valign="top">
+
+**🗃️ Product Catalog DBMS**
+`SQL` `DBMS` `Database Design`
+
+Normalized schema for a product catalog with queries for inventory, categories, pricing, and reporting using relational SQL.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardiik12/product-catalog-dbms-project) [![Live](https://img.shields.io/badge/Live-00f2fe?style=flat-square&logo=vercel&logoColor=black)](https://product-catalog-dbms-project.vercel.app)
 
 </td>
 </tr>
 </table>
 
-<!-- Snake: dark SVG in dark mode, light SVG in light mode -->
+<!-- Snake contribution animation -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -245,7 +233,7 @@ Database management system project — normalized schema design for a product ca
 
 ## 📡 Live Stats
 
-<!-- Streak: dark theme in dark mode, clean default in light mode -->
+<!-- Streak stats -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hardiik12&theme=dark&hide_border=true&stroke=00f2fe&ring=b794f6&fire=00f2fe&currStreakLabel=b794f6" />
@@ -253,7 +241,15 @@ Database management system project — normalized schema design for a product ca
 </picture>
 </p>
 
-<!-- Activity Graph: tokyo-night in dark, github-light in light -->
+<!-- Top Languages -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardiik12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardiik12&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
+</p>
+
+<!-- Activity Graph -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hardiik12&theme=tokyo-night&hide_border=true&area=true" />
