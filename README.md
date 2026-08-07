@@ -233,12 +233,9 @@ Normalized schema for a product catalog with queries for inventory, categories, 
 
 ## 📡 Live Stats
 
-<!-- Streak stats -->
+<!-- Streak stats — single img, no picture tag (more reliable on GitHub) -->
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hardiik12&theme=dark&hide_border=true&stroke=00f2fe&ring=b794f6&fire=00f2fe&currStreakLabel=b794f6" />
-  <img src="https://streak-stats.demolab.com?user=Hardiik12&theme=default&hide_border=true&stroke=764ba2&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
-</picture>
+  <img src="https://streak-stats.demolab.com?user=Hardiik12&theme=tokyonight&hide_border=true&ring=e8198b&fire=e8198b&currStreakLabel=c7eafd&stroke=30363d&sideLabels=c7eafd" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
